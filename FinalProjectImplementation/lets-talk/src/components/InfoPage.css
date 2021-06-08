@@ -1,0 +1,20 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    display: grid;
+    justify-items: center;
+    background-color: #3a3a3a;
+}
+
+ul {
+    list-style-type: none;
+    background-color: #eee9e8;
+    border: 2px solid black;
+    border-radius: 12px;
+    border-color: black;
+}

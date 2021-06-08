@@ -1,0 +1,33 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    display: grid;
+    justify-items: center;
+    background-color: #3a3a3a;
+}
+
+ul {
+    list-style-type: none;
+    background-color: #eee9e8;
+    border: 2px solid black;
+    border-radius: 12px;
+    border-color: black;
+}
+
+li {
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    line-height: 42px;
+    font: "Myriad Pro";
+    font-size: 16px;
+    padding-left: 10px;
+    padding-right:10px;
+    border-bottom: 1px solid;
+    border-color: #333;
+}
